@@ -1396,7 +1396,7 @@ body {
 .cid-qPp7Xs1jAy {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #2e2e2e;
+  background-color: #c1c1c1;
 }
 @media (max-width: 767px) {
   .cid-qPp7Xs1jAy .content {
@@ -1459,6 +1459,12 @@ body {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+.cid-qPp7Xs1jAy P {
+  color: #232323;
+}
+.cid-qPp7Xs1jAy H5 {
+  color: #232323;
 }
 .cid-qPp2ypfKCp {
   padding-top: 75px;
