@@ -1466,9 +1466,14 @@ body {
 .cid-qPp7Xs1jAy H5 {
   color: #232323;
 }
+.cid-qPqwF5xD9Y {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/jumbotron.jpg");
+}
 .cid-qPquye2Wx0 {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 60px;
+  padding-bottom: 45px;
   background-color: #f9f9f9;
 }
 .cid-qPquye2Wx0 .mbr-text {
