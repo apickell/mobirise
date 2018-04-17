@@ -1375,8 +1375,8 @@ body {
 }
 .cid-qP2qMxAw63 {
   padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/background3.jpg");
+  padding-bottom: 45px;
+  background-image: url("../../../assets/images/ny-pic-2000x1335.jpg");
 }
 .cid-qP2qMxAw63 .mbr-figure {
   margin: 0 auto;
@@ -1393,9 +1393,13 @@ body {
     width: 100% !important;
   }
 }
+.cid-qP2qMxAw63 .mbr-text,
+.cid-qP2qMxAw63 .mbr-section-btn {
+  text-align: center;
+}
 .cid-qPp7Xs1jAy {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 30px;
   background-color: #c1c1c1;
 }
 @media (max-width: 767px) {
@@ -1554,7 +1558,7 @@ body {
 .cid-qPpasAIurc {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #f8f8f8;
+  background-color: #f2ead1;
 }
 .cid-qPpasAIurc .mbr-section-subtitle {
   color: #767676;
@@ -1563,7 +1567,7 @@ body {
 }
 .cid-qPpasAIurc .timeline-text-content {
   padding: 2rem 2.5rem;
-  background: #ffffff;
+  background: #ecf0f2;
   margin-left: 2rem;
 }
 .cid-qPpasAIurc .timeline-text-content p {
@@ -1574,7 +1578,7 @@ body {
 }
 .cid-qPpasAIurc .time-line-date-content p {
   padding: 2rem 2.5rem;
-  background: #ffffff;
+  background: #ecf0f2;
   float: right;
 }
 .cid-qPpasAIurc .timeline-element {
@@ -1623,7 +1627,7 @@ body {
   border-radius: 50%;
   font-size: 30px;
   display: inline-block;
-  background-color: #ffffff;
+  background-color: #ecf0f2;
   top: 20px;
   margin-left: -10px;
 }
@@ -1633,7 +1637,7 @@ body {
   position: absolute;
   content: "";
   width: 2px;
-  background-color: #ffffff;
+  background-color: #ecf0f2;
   left: calc(50% - 1px);
   height: calc(100% + 4rem);
 }
